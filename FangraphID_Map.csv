@@ -1,89 +1,184 @@
-﻿IDmlb,IDfg,name
-686611,33541,Dylan Crews
-701358,35108,Cam Smith
-702616,31781,Jackson Holliday
-682663,26546,Agustín Ramírez
-802415,31912,Chandler Simpson
-687597,31431,Jordan Beck
-681624,24816,Andy Pages
-681393,29592,Connor Norby
-670224,26374,Kameron Misner
-663968,26202,Jake Mangum
-702332,29646,Caleb Durbin
-676572,23395,Eric Wagaman
-682668,26548,Luisangel Acuña
-693307,27464,Dillon Dingler
-694374,29571,Tim Tawa
-686797,31595,Brooks Lee
-682657,26540,Angel Martínez
-700337,28022,Edgar Quero
-686948,31539,Drake Baldwin
-686780,25782,Pedro Pagés
-805367,31580,Chase Meidroth
-665052,21626,Griffin Conine
-678877,24257,Jhonkensy Noel
-691182,27962,Adael Amador
-700242,29575,Trey Sweeney
-690291,31437,Jace Jung
-702176,31564,Alan Roden
-665966,19722,Carlos Narváez
-691594,28253,Javier Sanoja
-701305,31562,Zach Dezenzo
-660844,21009,Leo Rivas
-672359,22566,Tirso Ornelas
-640902,19802,Jhonny Pereda
-668845,25524,Aaron Schunk
-672761,22857,Wenceel Pérez
-669717,25434,Will Wilson
-694175,27781,Pedro León
-669208,29547,Ryan Bliss
-669398,27573,Gage Workman
-663604,21496,Brandon Lockridge
-687957,25705,Dustin Harris
-680718,24598,Addison Barger
-683766,27653,Christian Koss
-669234,29606,Justyn-Henry Malloy
-685301,25855,Matt Gorski
-641555,20084,J.C. Escarra
-665953,21797,Andrés Chaparro
-680577,24496,DaShawn Keirsey
-682927,25346,Ronny Simon
-681508,24759,Mickey Gasper
-686555,25477,Isaac Collins
-682177,25180,Daniel Schneemann
-680474,24488,Max Schuemann
-694362,29487,Blake Dunn
-672569,22707,Gustavo Campero
-695578,29518,James Wood
-692225,33644,Kristian Campbell
-701762,35110,Nick Kurtz
-807712,33321,Luke Keaschall
-700250,29576,Ben Rice
-683004,30146,Jack Leiter
-681293,29921,Spencer Arrighetti
-677958,31843,Kumar Rocker
-694973,33677,Paul Skenes
-808963,35323,Roki Sasaki
-680730,27636,Mitchell Parker
-656550,16944,Grant Holmes
-668964,22191,Tobias Myers
-701542,30182,Will Warren
-694477,30113,Chad Patrick
-680732,29878,Sean Burke
-690916,30160,Richard Fitts
-700249,30055,Cade Povich
-686799,27688,Jack Kochanowicz
-676282,23335,Joey Cantillo
-669372,27889,J.T. Ginn
-688107,29812,Robert Gasser
-686563,31730,Jonathan Cannon
-663969,20629,Tyler Phillips
-669371,27570,Cole Henry
-694646,29866,Chayce McDermott
-681066,29823,Ky Bush
-678024,30105,Mike Vasil
-681035,30107,Christian Scott
-689672,31967,Drew Thorpe
-686701,29863,Ryan Bergert
-680885,31846,Spencer Schwellenbach
-695549,30203,Jackson Jobe
+﻿IDmlb,IDfg,FNM,LNM,IDYahoo
+686611,33541,Dylan,Crews,
+701358,35108,Cam,Smith,
+702616,31781,Jackson,Holliday,
+682663,26546,Agustín,Ramírez,
+802415,31912,Chandler,Simpson,
+687597,31431,Jordan,Beck,
+681624,24816,Andy,Pages,
+681393,29592,Connor,Norby,
+670224,26374,Kameron,Misner,
+663968,26202,Jake,Mangum,
+702332,29646,Caleb,Durbin,
+676572,23395,Eric,Wagaman,
+682668,26548,Luisangel,Acuña,
+693307,27464,Dillon,Dingler,
+694374,29571,Tim,Tawa,
+686797,31595,Brooks,Lee,
+682657,26540,Angel,Martínez,
+700337,28022,Edgar,Quero,
+686948,31539,Drake,Baldwin,
+686780,25782,Pedro,Pagés,
+805367,31580,Chase,Meidroth,
+665052,21626,Griffin,Conine,
+678877,24257,Jhonkensy,Noel,
+691182,27962,Adael,Amador,
+700242,29575,Trey,Sweeney,
+690291,31437,Jace,Jung,
+702176,31564,Alan,Roden,
+665966,19722,Carlos,Narváez,
+691594,28253,Javier,Sanoja,
+701305,31562,Zach,Dezenzo,
+660844,21009,Leo,Rivas,
+672359,22566,Tirso,Ornelas,
+640902,19802,Jhonny,Pereda,
+668845,25524,Aaron,Schunk,
+672761,22857,Wenceel,Pérez,
+669717,25434,Will,Wilson,
+694175,27781,Pedro,León,
+669208,29547,Ryan,Bliss,
+669398,27573,Gage,Workman,
+663604,21496,Brandon,Lockridge,
+687957,25705,Dustin,Harris,
+680718,24598,Addison,Barger,
+683766,27653,Christian,Koss,
+669234,29606,Justyn-Henry,Malloy,
+685301,25855,Matt,Gorski,
+641555,20084,J.C.,Escarra,
+665953,21797,Andrés,Chaparro,
+680577,24496,DaShawn,Keirsey,
+682927,25346,Ronny,Simon,
+681508,24759,Mickey,Gasper,
+686555,25477,Isaac,Collins,
+682177,25180,Daniel,Schneemann,
+680474,24488,Max,Schuemann,
+694362,29487,Blake,Dunn,
+672569,22707,Gustavo,Campero,
+695578,29518,James,Wood,
+692225,33644,Kristian,Campbell,
+701762,35110,Nick,Kurtz,
+807712,33321,Luke,Keaschall,
+700250,29576,Ben,Rice,
+683004,30146,Jack,Leiter,
+681293,29921,Spencer,Arrighetti,
+677958,31843,Kumar,Rocker,
+694973,33677,Paul,Skenes,
+808963,35323,Roki,Sasaki,
+680730,27636,Mitchell,Parker,
+656550,16944,Grant,Holmes,
+668964,22191,Tobias,Myers,
+701542,30182,Will,Warren,
+694477,30113,Chad,Patrick,
+680732,29878,Sean,Burke,
+690916,30160,Richard,Fitts,
+700249,30055,Cade,Povich,
+686799,27688,Jack,Kochanowicz,
+676282,23335,Joey,Cantillo,
+669372,27889,J.T.,Ginn,
+688107,29812,Robert,Gasser,
+686563,31730,Jonathan,Cannon,
+663969,20629,Tyler,Phillips,
+669371,27570,Cole,Henry,
+694646,29866,Chayce,McDermott,
+681066,29823,Ky,Bush,
+678024,30105,Mike,Vasil,
+681035,30107,Christian,Scott,
+689672,31967,Drew,Thorpe,
+686701,29863,Ryan,Bergert,
+680885,31846,Spencer,Schwellenbach,
+695549,30203,Jackson,Jobe,
+807713,33322,Matt,Shaw,
+695657,29712,Colson,Montgomery,
+701350,31812,Roman,Anthony,
+805300,31370,Jakob,Marsee,
+682653,26536,Warming,Bernabel,
+700932,29794,Kyle,Manzardo,
+691785,29668,Marcelo,Mayer,
+691723,28312,Coby,Mayo,
+682988,31396,Tyler,Locklear,
+692216,33704,CJ,Kayfus,
+691781,29993,Brady,House,
+691019,33549,Kyle,Teel,
+687221,31382,Dalton,Rushing,
+702284,31680,Cole,Young,
+690976,31665,Alex,Freeland,
+690987,27482,Robert,Hassell III,
+680728,29554,Adrian,Del Castillo,
+672016,29858,Denzel,Clarke,
+681715,24878,Heriberto,Hernández,
+695734,29995,Daylen,Lile,
+687551,31545,Drew,Gilbert,
+687515,31855,Colby,Thomas,
+691720,33252,Kyle,Karros,
+608596,13499,Tom,Murphy,
+592325,12160,Ben,Gamel,
+669236,22239,Jeremiah,Jackson,
+678011,23802,Anthony,Seigler,
+682997,27497,Tyler,Callihan,
+680862,24641,Willie,MacIver,
+666126,21842,Carlos,Cortes,
+692585,28552,Yanquiel,Fernández,
+690022,31500,Ryan,Ritter,
+687529,25690,Grant,McCray,
+671976,30063,Tristan,Peters,
+695336,27883,Thomas,Saggese,
+687859,26143,Troy,Johnston,
+690924,29704,Braxton,Fulford,
+681909,25005,Justin,Dean,
+680837,24622,Ryan,Fitzgerald,
+668974,26106,Maverick,Handley,
+676439,23372,Hunter,Feduccia,
+669326,29524,Bryce,Teodosio,
+670231,26284,John,Rave,
+686475,25779,Tyler,Tolbert,
+676679,23442,Luis,Vázquez,
+678022,31468,Jack,Perkins,
+690990,31872,Cade,Horton,
+701656,31475,Logan,Henderson,
+664299,17606,Cristian,Javier,
+680694,24586,Kyle,Bradish,
+694462,33527,Hurston,Waldrep,
+681347,24728,Mike,Burrows,
+681343,31687,Shane,Smith,
+700241,29869,Michael,McGreevy,
+687931,31676,Carson,Whisenhunt,
+691799,33927,Grant,Taylor,
+684320,33838,Yariel,Rodríguez,
+688138,33699,Logan,Evans,
+675512,31807,Troy,Melton,
+676467,31312,Colton,Gordon,
+701581,30056,David,Festa,
+695076,33876,Rhett,Lowder,
+676428,30133,Brant,Hurter,
+676263,30249,Jack,Dreyer,
+806960,32227,Luis,Morales,
+677952,23793,Braxton,Ashcraft,
+680684,31318,Gunnar,Hoglund,
+694813,27792,Gavin,Stone,
+693855,27932,Ian,Seymour,
+674003,27597,Cody,Bradford,
+685299,27669,Tanner,Gordon,
+687792,26389,DJ,Herz,
+687134,26419,Bradley,Blalock,
+680736,31204,Justin,Wrobleski,
+666129,21844,Braxton,Garrett,
+656756,16511,Jordan,Montgomery,
+656412,19874,Alex,Faedo,
+665622,21649,Luis,Medina,
+641585,21212,J.P.,France,
+682610,25311,Roddery,Muñoz,
+691441,27974,Cristian,Mena,
+693313,30084,Carson,Seymour,
+685126,27668,Brandon,Eisert,
+669620,25582,Brady,Basso,
+687924,30031,Julian,Aguiar,
+689981,29514,River,Ryan,
+678368,23899,Valente,Bellozo,
+702070,30184,Noah,Cameron,
+694819,31623,Jacob,Misiorowski,
+695505,35333,Chase,Burns,
+571970,13301,Max,Muncy,9606
+691777,29779,Max,Muncy,12501
+622491,15689,Luis,Castillo,10514
+622379,20638,Luis,Castillo,
+669257,19197,Will,Smith,10642
