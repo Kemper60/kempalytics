@@ -1,0 +1,6 @@
+# Local databases (too large for GitHub)
+*.duckdb
+*.duckdb.wal
+
+# Local Claude Code instructions
+CLAUDE.md
